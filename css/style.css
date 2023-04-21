@@ -4,3 +4,10 @@
 .middle-part{
     display: flex;
 }
+.text-part{
+    margin-top: 290px;
+}
+h7{
+    display: block;
+    line-height: 20px;
+}
